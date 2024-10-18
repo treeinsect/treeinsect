@@ -1,5 +1,10 @@
-## Hi there 👋
 ![2 renders of a Mii, either side of the username 'treeinsect'](banner.png)
+### hi, i'm will!
+
+✨ Second year Computer Science student at UoN
+✨ Fan of playing around and having fun
+✨ Current WIP: who knows?! wherever the wind takes me...
+
 
 <!--
 **treeinsect/treeinsect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
