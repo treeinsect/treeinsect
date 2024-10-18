@@ -1,4 +1,5 @@
 ## Hi there 👋
+![2 renders of a Mii, either side of the username 'treeinsect'](banner.png)
 
 <!--
 **treeinsect/treeinsect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
