@@ -7,7 +7,7 @@
 
 ✨ Fan of playing around and having fun
 
-✨ Current WIP: who knows?! wherever the wind takes me...
+✨ Current WIP: working on github pages has me feeling like slenderman...
 
 
 <!--
