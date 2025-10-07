@@ -3,7 +3,7 @@
 
 
 
-✨ Second year Computer Science student at UoN
+✨ Final year Computer Science student at UoN
 
 ✨ Fan of playing around and having fun
 
