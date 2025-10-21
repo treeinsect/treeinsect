@@ -7,7 +7,7 @@
 
 ✨ Fan of playing around and having fun
 
-✨ Current WIP: working on github pages has me feeling like slenderman...
+✨ Current WIP: why is it called a 'diss' if it's actually quite respectful?
 
 
 <!--
