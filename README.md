@@ -1,14 +1,8 @@
 ![2 renders of a Mii, either side of the username 'treeinsect'](banner.png)
-### hi, i'm will!
 
-
-
-✨ Final year Computer Science student at UoN
+✨ UoN Computer Science Graduate
 
 ✨ Fan of playing around and having fun
-
-✨ Current WIP: why is it called a 'diss' if it's actually quite respectful?
-
 
 <!--
 **treeinsect/treeinsect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
